@@ -1,1 +1,10 @@
-
+**User Knowledge Example**
+Downloaded from the UCI Machine Learning Repository on February 26, 2015.
+  Data Set: Multivariate
+  Attribute: Integer
+  Tasks: Classification, Clustering
+  Instances: 403
+  Attributes: 5
+  
+Data Set Information:
+User knowledge was divided into 4 classes-- Very Low, Low, Middle, High-- by the authors using intuitive knowledge classifier (a hybrid ML technique of k-NN and meta-heuristic exploring methods), k-nearest neighbor algorithm. See article for more details on how the users' data was collected and evaluated by the user modeling server. 
